@@ -3,7 +3,7 @@
 By [Plataformatec](http://plataformatec.com.br/).
 
 [![Build Status](https://api.travis-ci.org/plataformatec/devise.svg?branch=master)](http://travis-ci.org/plataformatec/devise)
-[![Code Climate](https://codeclimate.com/github/plataformatec/devise.svg)](https://codeclimate.com/github/plataformatec/devise)
+[![Code Climate](https://codeclimate.com/github/plataformatec/devise.svg)](https://codeclimate.com/github/plataformatec/devise) [![GuardRails badge](https://badges.production.guardrails.io/r0flc0pt4/devise.svg)](https://www.guardrails.io)
 
 This README is [also available in a friendly navigable format](http://devise.plataformatec.com.br/).
 
